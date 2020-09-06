@@ -1,6 +1,7 @@
 
 
 
+
 # Ask me anything!
 
 Hey :wave:
@@ -32,28 +33,6 @@ Medium - https://medium.com/@hrishabh01sharma
 
 ## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aclosed%20sort%3Aupdated-desc%20-label%3Ahidden)
 
-I love helping people. I want everyone to be successful. I get a lot of questions by email. This way, anyone can read the answer!
-Feel free to ask questions on tech careers, web development, open-source, git, being productive, work, life, fitness, mental health, or anything else you're curious about.
-
-
-
-### Guidelines
-
-- Ensure your question hasn't already been answered.
-- Use a succinct title and description.
-- Bugs & feature requests should be opened on the relevant issue tracker.
-- Support questions are better asked on Stack Overflow.
-- Be civil and polite.
-- Avoid asking too personal questions.
-
-### Links
-
-- [Read more AMAs](https://github.com/sindresorhus/amas)
-- [Create your own AMA](https://github.com/sindresorhus/amas/blob/master/create-ama.md)
-- [What's an AMA?](https://en.wikipedia.org/wiki//r/IAmA)
-
-
-## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aclosed%20sort%3Aupdated-desc%20-label%3Ahidden)
 
 
 Feel free to ask questions on  web development, open-source, blockhains, git, being productive, mental health, or anything else you're curious about.
@@ -74,3 +53,5 @@ Feel free to ask questions on  web development, open-source, blockhains, git, be
 - [Read more AMAs](https://github.com/sindresorhus/amas)
 - [Create your own AMA](https://github.com/sindresorhus/amas/blob/master/create-ama.md)
 - [What's an AMA?](https://en.wikipedia.org/wiki//r/IAmA)
+
+
